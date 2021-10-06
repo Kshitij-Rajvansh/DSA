@@ -1,4 +1,5 @@
 ﻿using System;
+using Algorithms.SearchAlgorithms;
 
 namespace Algorithms
 {
@@ -6,7 +7,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Search.BinarySearch();
         }
     }
 }
